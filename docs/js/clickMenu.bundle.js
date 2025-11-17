@@ -1,0 +1,1 @@
+document.querySelector(".menu").onclick=function(e){document.querySelector(".mobile__nav").classList.toggle("mobile__nav-action")},document.querySelector(".close").onclick=function(e){document.querySelector(".mobile__nav").classList.toggle("mobile__nav-action")};
