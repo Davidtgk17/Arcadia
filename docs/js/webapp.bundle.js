@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){Telegram.WebApp.ready(),Telegram.WebApp.expand()});
