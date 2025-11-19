@@ -1,1 +1,1 @@
-document.addEventListener("DOMContentLoaded",function(){Telegram.WebApp.ready(),Telegram.WebApp.expand()});
+window.Telegram.WebApp.requestFullscreen();
